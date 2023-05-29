@@ -1,2 +1,2 @@
 # communication_protocols
-Common communication protocols in embedded systems
+Common communication protocols for embedded systems written in Verilog HDL.
